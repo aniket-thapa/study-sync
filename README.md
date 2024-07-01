@@ -7,4 +7,4 @@ I have created it with the help of a youtube channel named "CodeHelp - by Babbar
 
 # Preview
 
-[WebPage Preview](https://developer-aniket-thapa.on.drv.tw/HTML-CSS-Project3.com)
+[WebPage Preview](https://aniket-thapa.github.io/study-sync)
